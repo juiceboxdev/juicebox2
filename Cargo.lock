@@ -3,9 +3,9 @@
 version = 4
 
 [[package]]
-name = "juicebox-config"
+name = "juicebox"
 version = "0.1.0"
 
 [[package]]
-name = "juicebox2"
+name = "juicebox-config"
 version = "0.1.0"

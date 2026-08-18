@@ -2,7 +2,7 @@
 resolver = "3"
 members = [
     # The actual orchestrator for juicebox2
-    "crates/juicebox2",
+    "crates/juicebox",
 
     # Implementation libraries
     "crates/juicebox-*",
