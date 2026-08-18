@@ -1,0 +1,11 @@
+/*
+
+!/crates
+
+!/flake.*
+!/Cargo.*
+
+!/.gitignore
+!/.taplo.toml
+!/LICENSE
+!/rustfmt.toml

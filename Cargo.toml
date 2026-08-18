@@ -1,0 +1,20 @@
+[workspace]
+resolver = "3"
+members = [
+    # The actual orchestrator for juicebox2
+    "crates/juicebox2",
+
+    # Implementation libraries
+    "crates/juicebox-*",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "LGPL-3.0-or-later"
+
+[workspace.lints.clippy]
+pedantic = "warn"
+nursery  = "warn"
+
+[workspace.dependencies]
