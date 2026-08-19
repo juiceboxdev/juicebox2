@@ -4,6 +4,9 @@ members = [
     # The actual orchestrator for juicebox2
     "crates/juicebox",
 
+    # I still don't fully understand what this does!!
+    "crates/juicehost",
+
     # Implementation libraries
     "crates/juicebox-*",
 ]
