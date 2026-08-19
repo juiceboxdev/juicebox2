@@ -1,2 +1,2 @@
 [licenses]
-allow = ["LGPL-3.0-or-later"]
+allow = ["Apache-2.0", "LGPL-3.0-or-later", "MIT", "Unicode-3.0"]
